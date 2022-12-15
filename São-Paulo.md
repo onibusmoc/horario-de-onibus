@@ -1,92 +1,94 @@
 Horários de Ônibus em São Paulo: Horários e Itinerários do Transporte Público de Passageiros
 São Paulo é a maior cidade do Brasil e a quarta maior cidade do mundo. É também a cidade mais populosa do Brasil e a segunda cidade mais populosa das Américas. Embora seja a capital do estado de São Paulo, não é apenas uma cidade, mas uma megacidade que possui um impressionante sistema de transporte. Cada rua, avenida e bairro tem suas características. Além disso, existem diferentes linhas de ônibus que percorrem todas as partes e bairros da cidade de São Paulo. Consequentemente, é muito conveniente para a população e turistas entenderem como usar o sistema de transporte público de São Paulo, tanto as linhas que servem a capital paulista quanto as linhas de ônibus que atendem as regiões metropolitanas do estado.
 
-["Horário de Ônibus SP"] (https://horariodeonibus.net/horario-de-onibus-sp) - Cada parte da área metropolitana - conhecida como zona - tem suas próprias linhas de ônibus. As linhas de ônibus que trafegam pela área de central, parte mais antiga o que inclue a Avenida Paulista - são as linhas d eônibus especialmente conhecidas entre os paulistanos. Essas linhas são eficientes e confiáveis, pois operam de acordo com horários e tem pontos de ônibus em locais designados. É fácil pegar em um ônibus, pois há rotas, itinerário de paradas e informações em tempo real da linha. Além disso, existem venda de passagem onde você pode comprar o cartão de passagens antes de embarcar no ônibus. Esses recursos tornam o transporte de ônibus muito conveniente para todos os passageiros.
+<strong><a href="https://horariodeonibus.net/horario-de-onibus-sp">Horário de Ônibus SP</a></strong> - Cada parte da área metropolitana - conhecida como zona - tem suas próprias linhas de ônibus. As linhas de ônibus que trafegam pela área de central, parte mais antiga o que inclue a Avenida Paulista - são as linhas d eônibus especialmente conhecidas entre os paulistanos. Essas linhas são eficientes e confiáveis, pois operam de acordo com horários e tem pontos de ônibus em locais designados. É fácil pegar em um ônibus, pois há rotas, itinerário de paradas e informações em tempo real da linha. Além disso, existem venda de passagem onde você pode comprar o cartão de passagens antes de embarcar no ônibus. Esses recursos tornam o transporte de ônibus muito conveniente para todos os passageiros.
 
-["Americana"] (https://horariodeonibus.net/americana/)
+<h2>HORÁRIOS DE ÔNIBUS LISTA DE CIDADES SÃO PAULO</h2>
 
-["Barueri - BBTT"] (https://horariodeonibus.net/horario-de-onibus-barueri/)
+<a href="https://horariodeonibus.net/americana">Americana</a>
 
-["Bauru - Transurb"] (https://horariodeonibus.net/transurb-bauru/)
+<a href="https://horariodeonibus.net/horario-de-onibus-barueri">Barueri - BBTT</a>
 
-["Botucatu"] (https://horariodeonibus.net/horario-de-onibus-botucatu/)
+<a href="https://horariodeonibus.net/transurb-bauru">Bauru - Transurb</a>
 
-["Campinas"] (https://horariodeonibus.net/horario-de-onibus-campinas/)
+<a href="https://horariodeonibus.net/horario-de-onibus-botucatu">Botucatu</a>
 
-["Carapicuiba - ETT / Del Rey"] (https://horariodeonibus.net/horario-de-onibus-ett-e-grupo-del-rey/)
+<a href="https://horariodeonibus.net/horario-de-onibus-campinas">Campinas</a>
 
-["Diadema"] (https://horariodeonibus.net/horario-de-onibus-diadema/)
+<a href="https://horariodeonibus.net/horario-de-onibus-ett-e-grupo-del-rey">Carapicuiba - ETT / Del Rey</a>
 
-["Guarulhos"] (https://horariodeonibus.net/linha-de-onibus-guarulhos/)
+<a href="https://horariodeonibus.net/horario-de-onibus-diadema">Diadema</a>
 
-["Indaiatuba"] (https://horariodeonibus.net/horario-de-onibus-indaiatuba/)
+<a href="https://horariodeonibus.net/linha-de-onibus-guarulhos">Guarulhos</a>
 
-["Itaquaquecetuba"] (https://horariodeonibus.net/horario-de-onibus-itaquaquecetuba/)
+<a href="https://horariodeonibus.net/horario-de-onibus-indaiatuba">Indaiatuba</a>
 
-["Itú"] (https://horariodeonibus.net/horario-de-onibus-viacao-itu/)
+<a href="https://horariodeonibus.net/horario-de-onibus-itaquaquecetuba">Itaquaquecetuba</a>
 
-["Jacarei"] (https://horariodeonibus.net/jtu-jacarei/)
+<a href="https://horariodeonibus.net/horario-de-onibus-viacao-itu">Itú</a>
 
-["Jundiai"] (https://horariodeonibus.net/horario-de-onibus-jundiai/)
+<a href="https://horariodeonibus.net/jtu-jacarei">Jacarei</a>
 
-["Jundiai"] (https://horariodeonibus.net/jandaia-horarios/)
+<a href="https://horariodeonibus.net/horario-de-onibus-jundiai">Jundiai</a>
 
-["Limeira"] (https://horariodeonibus.net/sou-limeira/)
+<a href="https://horariodeonibus.net/jandaia-horarios">Jundiai</a>
 
-["Marilia - AMTU"] (https://horariodeonibus.net/amtu-marilia/)
+<a href="https://horariodeonibus.net/sou-limeira">Limeira</a>
 
-["Mauá"] (https://horariodeonibus.net/horario-de-onibus-maua/)
+<a href="https://horariodeonibus.net/amtu-marilia">Marilia - AMTU</a>
 
-["Mogi das Cruzes"] (https://horariodeonibus.net/horario-de-onibus-mogi-das-cruzes/)
+<a href="https://horariodeonibus.net/horario-de-onibus-maua">Mauá</a>
 
-["Monte Mor"] (https://horariodeonibus.net/horario-de-onibus-monte-mor/)
+<a href="https://horariodeonibus.net/horario-de-onibus-mogi-das-cruzes">Mogi das Cruzes</a>
 
-["Osasco"] (https://horariodeonibus.net/viacao-osasco/)
+<a href="https://horariodeonibus.net/horario-de-onibus-monte-mor">Monte Mor</a>
 
-["Pindamonhangaba"] (https://horariodeonibus.net/horario-de-onibus-pindamonhangaba/)
+<a href="https://horariodeonibus.net/viacao-osasco">Osasco</a>
 
-["Piracicaba - Tupi"] (https://horariodeonibus.net/horario-de-onibus-piracicaba/)
+<a href="https://horariodeonibus.net/horario-de-onibus-pindamonhangaba">Pindamonhangaba</a>
 
-["Praia Grande - Piracicabana"] (https://horariodeonibus.net/quanto-tempo-falta-praia-grande/)
+<a href="https://horariodeonibus.net/horario-de-onibus-piracicaba">Piracicaba - Tupi</a>
 
-["Rapido Luxo"] (https://horariodeonibus.net/rapido-luxo-campinas/)
+<a href="https://horariodeonibus.net/quanto-tempo-falta-praia-grande">Praia Grande - Piracicabana</a>
 
-["Ribeirão Pires ou Rio Grande da Serra - Rigras"] (https://horariodeonibus.net/horario-rigras/)
+<a href="https://horariodeonibus.net/rapido-luxo-campinas">Rapido Luxo</a>
 
-["Ribeirao Preto"] (https://horariodeonibus.net/horario-de-onibus-ribeirao-preto/)
+<a href="https://horariodeonibus.net/horario-rigras">Ribeirão Pires ou Rio Grande da Serra - Rigras</a>
 
-["Santa Barbara D’Oeste"] (https://horariodeonibus.net/sertran/)
+<a href="https://horariodeonibus.net/horario-de-onibus-ribeirao-preto">Ribeirao Preto</a>
 
-["Santo André - AESA"] (https://horariodeonibus.net/linhas-de-onibus-santo-andre/)
+<a href="https://horariodeonibus.net/sertran">Santa Barbara D’Oeste</a>
 
-["Santos - Piracicabana"] (https://horariodeonibus.net/quanto-tempo-falta-piracicabana/)
+<a href="https://horariodeonibus.net/linhas-de-onibus-santo-andre">Santo André - AESA</a>
 
-["São Bernardo do Campo - SBC trans"] (https://horariodeonibus.net/sbc-trans/)
+<a href="https://horariodeonibus.net/quanto-tempo-falta-piracicabana">Santos - Piracicabana</a>
 
-["São José do Rio Preto"] (https://horariodeonibus.net/riopretrans/)
+<a href="https://horariodeonibus.net/sbc-trans">São Bernardo do Campo - SBC trans</a>
 
-["São José dos Campos - SJC"] (https://horariodeonibus.net/horario-de-onibus-sjc/)
+<a href="https://horariodeonibus.net/riopretrans">São José do Rio Preto</a>
 
-["São José dos Campos"] (https://horariodeonibus.net/horario-de-onibus-sjc/)
+<a href="https://horariodeonibus.net/horario-de-onibus-sjc">São José dos Campos - SJC</a>
 
-["São José Franca - Franca"] (https://horariodeonibus.net/horario-do-onibus-empresa-sao-jose-franca/)
+<a href="https://horariodeonibus.net/horario-de-onibus-sjc">São José dos Campos</a>
 
-["São Paulo - SPTRANS"] (https://horariodeonibus.net/sptrans/)
+<a href="https://horariodeonibus.net/horario-do-onibus-empresa-sao-jose-franca">São José Franca - Franca</a>
 
-["São Paulo Metropolitano - EMTU"] (https://horariodeonibus.net/emtu/)
+<a href="https://horariodeonibus.net/sptrans">São Paulo - SPTRANS</a>
 
-["Sorocaba - URBES"] (https://horariodeonibus.net/urbes-sorocaba/)
+<a href="https://horariodeonibus.net/emtu">São Paulo Metropolitano - EMTU</a>
 
-["Sorocaba"] (https://horariodeonibus.net/urbes-sorocaba/)
+<a href="https://horariodeonibus.net/urbes-sorocaba">Sorocaba - URBES</a>
 
-["Sumaré - Ouro Verde"] (https://horariodeonibus.net/horario-de-onibus-ouro-verde/)
+<a href="https://horariodeonibus.net/urbes-sorocaba">Sorocaba</a>
 
-["Taboão da Serra - Fervima"] (https://horariodeonibus.net/horario-de-onibus-taboao-da-serra/)
+<a href="https://horariodeonibus.net/horario-de-onibus-ouro-verde">Sumaré - Ouro Verde</a>
 
-["Vale do Tiete"] (https://horariodeonibus.net/viacao-vale-do-tiete/)
+<a href="https://horariodeonibus.net/horario-de-onibus-taboao-da-serra">Taboão da Serra - Fervima</a>
 
-["Valinhos"] (https://horariodeonibus.net/sou-valinhos/)
+<a href="https://horariodeonibus.net/viacao-vale-do-tiete">Vale do Tiete</a>
 
-["Via Sol"] (https://horariodeonibus.net/viacao-via-sol/)
+<a href="https://horariodeonibus.net/sou-valinhos">Valinhos</a>
 
-["Votorantim"] (https://horariodeonibus.net/horario-de-onibus-votorantim/)
+<a href="https://horariodeonibus.net/viacao-via-sol">Via Sol</a>
+
+<a href="https://horariodeonibus.net/horario-de-onibus-votorantim">Votorantim</a>
